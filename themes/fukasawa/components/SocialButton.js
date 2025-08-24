@@ -37,7 +37,7 @@ const SocialButton = () => {
 
 
   return (
-   ＜!--  <div className='w-full justify-center flex-wrap flex'>
+     <!-- <div className='w-full justify-center flex-wrap flex'>
       <div className='space-x-3 text-xl flex items-center text-gray-600 dark:text-gray-300 '>
         {CONTACT_GITHUB && (
           <a
