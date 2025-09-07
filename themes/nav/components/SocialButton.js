@@ -19,7 +19,7 @@ const SocialButton = () => {
 
   const emailIcon = useRef(null)
 
-  return (
+  return (<!--
     <div className='space-x-3 text-xl text-gray-600 dark:text-gray-400 flex-wrap flex justify-center '>
       {CONTACT_GITHUB && (
         <a
@@ -93,7 +93,7 @@ const SocialButton = () => {
           <i className='fas fa-rss transform hover:scale-125 duration-150 hover:text-green-600' />
         </a>
       )}
-    </div>
+    </div> -->
   )
 }
 export default SocialButton
